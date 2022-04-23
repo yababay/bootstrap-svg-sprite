@@ -1,3 +1,6 @@
+# Trash
+.tmp/
+
 # Logs
 logs
 *.log

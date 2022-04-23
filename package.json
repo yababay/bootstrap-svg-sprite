@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-svg-sprite",
+  "version": "0.0.1",
+  "description": "Подготовка svg-спрайтов для html-страниц.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "svg",
+    "sprite"
+  ],
+  "author": "Михаил Беляков",
+  "license": "MIT",
+  "dependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^13.2.1",
+    "@rollup/plugin-run": "^2.1.0",
+    "bootstrap-icons": "^1.8.1"
+  }
+}

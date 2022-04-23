@@ -1,0 +1,16 @@
+{
+    "svgSprite": [
+        "book", 
+        "calendar-event", 
+        "calendar-x", 
+        "clipboard",
+        "clipboard-check",
+        "person-lines-fill",
+        "cast",
+        "pip",
+        "file-text",
+        "person-workspace",
+        "github"
+    ]
+}
+
